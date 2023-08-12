@@ -3,7 +3,11 @@
     font-family: 'Courier New';
     color: #ffffff;
 }
-img{
+#pancake{
+    width: 400px;
     height: auto;
-    width: 500px;
+    margin: 0 auto;
+}
+.lists{
+    text-align: center;
 }
